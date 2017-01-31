@@ -1,3 +1,6 @@
+[![CircleCI](https://circleci.com/gh/Omniboard/kafka-connect-s3.svg?style=shield)](https://circleci.com/gh/Omniboard/kafka-connect-s3)
+[![Codacy](https://api.codacy.com/project/badge/Grade/8efeec261faf413c9f5c287ebdcd1fbd)](https://www.codacy.com/app/Omniboard/kafka-connect-s3?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=omniboard/kafka-connect-s3&amp;utm_campaign=Badge_Grade)
+
 # Kafka Connect S3 Sink
 
 This is a [kafka-connect](http://kafka.apache.org/documentation.html#connect) sink for Amazon S3, without any dependency on HDFS/Hadoop libraries or data formats.
